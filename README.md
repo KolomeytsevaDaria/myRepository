@@ -1,2 +1,2 @@
 # myReseporitory
-It is my first reseporitory
+It is my first repository
